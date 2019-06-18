@@ -81,4 +81,4 @@ me many times from committing something that wasn't quite right.
 ## Summary
 
 * Good commits are focused on a set of related changes
-* Use `git commit --patch` to add specific changes to the index
+* Use `git add --patch` to add specific changes to the index
